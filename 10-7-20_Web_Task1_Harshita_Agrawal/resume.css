@@ -1,0 +1,37 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: blanchedalmond;
+}
+.box
+{
+    padding: 20px;
+    display: flex;
+}
+#about-section
+{
+    padding-top: 65px;
+    padding-left: 20px;
+}
+#projects{
+    border-top: darkblue double;
+    padding-left: 20px;
+}
+#language{
+    border-top: darkblue double;
+    padding-left: 20px;
+}
+#language table{
+    border-spacing: 20px 15px;
+}
+#language table i{
+    color: darkorange;
+}
+#education{
+    border-top: darkblue double;
+    padding-left: 20px;
+}
+#education span{
+    color: darkblue;
+}
